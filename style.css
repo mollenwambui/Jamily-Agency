@@ -1,0 +1,331 @@
+body{
+    background-color: rgb(241,241,241);
+}
+.home{
+    color:rgb(85,202,22) ;
+    font-size: 50px;
+}
+.location{
+    color:rgb(85,202,22) ;
+    font-size: 40px;
+   margin-left: 30%;
+
+  
+    
+}
+.loc{
+    font-size: 25px;
+    margin-top: -6%;
+}
+.phone{
+    color:rgb(85,202,22) ;
+    font-size: 40px;
+ 
+}
+.tele{
+    margin-top: -6%;
+    margin-left: 42%; 
+}
+.env{
+    color:rgb(85,202,22) ;
+    font-size: 40px;
+}
+.email{
+    margin-top: -5%;
+    margin-left: 53%;  
+}
+.user{
+    color:rgb(85,202,22) ;
+    font-size: 40px;
+    
+}
+.search{
+    color:rgb(85,202,22) ;
+    font-size: 40px;
+    margin-top: -5%;
+    margin-left: 80%; 
+ 
+}
+.bar{
+    color:rgb(85,202,22) ;
+    font-size: 40px;
+    margin-top: -6%;
+    margin-left: 88%; 
+}
+.login{
+    margin-top: -5%;
+    margin-left: 68%;  
+}
+.design{
+    font-size: 100px;
+}
+.interior{
+    color:rgb(85,202,22) ; 
+}
+.pic img{
+    width: 520px;
+}
+.pic{
+    margin-left: 45%;
+    margin-top: -25%;
+}
+.paragraph{
+    margin-left: 45%;
+    background-color: white;
+    width:50% ;
+   text-align: justify;
+}
+.paragraph p{
+    margin-left: 10% ;
+    padding-bottom: 2px;
+}
+.paragraph h2{
+    margin-left: 10% ;
+}
+.desk{
+    margin-left: 75%;
+    margin-top: -11%;
+}
+.desk img{
+    width: 230px;
+}
+.Design{
+    background-color: white;
+    width: 10%;
+    height: 7vh;
+    padding-top: 15px;
+    padding-left:5px ;
+    margin: 2%;
+}
+.about{
+    background-color: white;
+    width: 10%;
+    height: 7vh;
+    padding-top: 15px;
+    padding-left:5px ; 
+    margin: 2%;
+}
+.both{
+    display: flex;
+    margin: 5%;
+    margin-top: -5%;
+}
+.our{
+    color: white;
+    background-color: black;
+    font-size: 40px;
+}
+.des{
+    color:rgb(85,202,22) ;
+    font-size: 40px;
+}
+.sit img{
+ width: 50%;
+ height: 50%;
+}
+
+.kit{
+    margin-left: 55%;
+    margin-top: -35%;
+    font-size: 20px;
+
+}
+.more{
+    color: white;
+    background-color: black;
+    width: 20%;
+    height: 5vh;
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-bottom: 3%;
+}
+.much{
+    color: white;
+    background-color: black;
+    width: 10%;
+    height: 7vh;
+    padding-top: 2%;
+    padding-left: 4%;
+}
+.long{
+    margin-top: 10%;
+    font-size: 20px;
+}
+.image img{
+    width: 94%;
+    height: 50%;  
+}
+.image{
+    margin-left: 48%;
+    margin-top: -30%;
+}
+.blur img{
+    width: 105%;
+    height: 130vh;
+}
+.our{
+    color: white;
+    background-color: black;
+}
+.serve{
+    color:rgb(85,202,22) ;
+}
+.h1{
+    margin-top: -60%;
+}
+.head{
+    display: flex;
+    margin-left: 38%;
+    margin-top: -8%;
+  
+}
+.p1{
+    padding: 5%;
+}
+.p2{
+    padding: 5%;
+}
+.p3{
+    padding: 5%;
+}
+.flower img{
+    height: 60vh;
+    width: 80%;
+}
+.flower{
+    margin-left: 5%;
+}
+.designm{
+   margin: -2%;
+    font-size: 20px;
+    margin-left: 3%;
+    
+}
+.designm p{
+    background-color: rgb(237,213,211);
+}
+.designm h1{
+    color: rgb(85,202,22);
+}
+.pillow{
+    margin-left: 40%;
+    margin-top: -27%;
+}
+.pillow img{
+    height: 60vh;
+}
+.sees{
+    color: white;
+    background-color: black;
+    width: 10%;
+    height: 5vh;
+    padding-top: 2%;
+    padding-left: 2%;
+  
+}
+.sty{
+    color:rgb(85,202,22) ;
+}
+.span{
+    margin-left: 30%;
+    border-bottom: 2px solid black;
+    width: 35%;
+}
+.span h1{
+    margin-left:20% ;
+}
+.quotes{
+    display: flex;
+}
+.jane{
+    padding: 5%;
+    border-bottom: 20px solid rgb(85,202,22) ;
+    margin: 2%;
+}   
+.jay{
+    padding: 5%;
+    border-bottom: 20px solid rgb(85,202,22) ;
+    margin: 2%;
+}
+.q{
+    margin-left: 30%;
+}
+.q1{
+    margin-left: 50%;  
+}
+.lamps img{
+    width: 100%;
+    height: 100vh;
+}
+.hey{
+    margin-top: -45%;
+    margin-left: 5%;
+    color: white;
+}
+.input{
+    width: 60%;
+    margin-left: 10%;
+    height: 10vh;
+    border-radius: 15px;
+
+}
+.inpute{
+    margin-top: 3%;
+    margin-left: 10%;
+    height: 10vh;
+    border-radius: 15px;
+    width: 60%;
+}
+.inputn{
+    margin-top: 3%;
+    margin-left: 10%;
+    height: 10vh;
+    border-radius: 15px;
+    width: 60%;
+}
+.inputm{
+    margin-top: 3%;
+    margin-left: 10%;
+    height: 14vh;
+    border-radius: 15px;
+    width: 60%;
+}
+.inputs{
+    margin-left: 12%;
+    background-color: rgb(212,212,212);
+    width: 50%;
+    height: 80vh;
+    padding-top: 5%;
+    
+}
+.send{
+    margin-top: 3%;
+    margin-left: 10%;
+    height: 10vh;
+    border-radius: 10px;
+    width: 10%;  
+    
+}
+.map img{
+width: 80%;
+height: 90vh;
+
+}
+.map{
+    margin-left: 70%;
+    margin-top: -47%;
+}
+.contact{
+    background-color:rgb(85,202,22) ;
+}
+button{
+margin-left: 10%;
+width: 20%;
+height: 10vh;
+border-radius: 30px;
+background-color:rgb(85,202,22)  ;
+}
+.us{
+    color: white;
+    font-size: x-large;
+}
